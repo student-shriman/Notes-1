@@ -1,0 +1,8 @@
+vgg notebook -  https://colab.research.google.com/drive/12FBt43vYzskjSSBbECwPh0-gyobbZ3Mi
+
+AlexNet - https://colab.research.google.com/drive/144tV6o_Fmg_c150BfNqPnbavc0tLLD54
+
+Inception - https://colab.research.google.com/drive/1ArXjovRFGqEqjSPqFwr2SojRIoMiokU9
+
+tfod model zoo -  https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
+

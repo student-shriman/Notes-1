@@ -1,0 +1,14 @@
+# virtualenv
+venv/
+
+# PyCharm utils
+.idea/
+
+# Polyaxon files
+.polyaxonignore
+.polyaxon/
+polyaxon_experiments/
+polyaxon_requirements.txt
+
+# outputs
+output/
